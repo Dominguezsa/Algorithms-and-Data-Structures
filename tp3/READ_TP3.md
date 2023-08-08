@@ -1,0 +1,1 @@
+To execute this program:  ./flycombi.py aeropuertos.csv vuelos.csv
